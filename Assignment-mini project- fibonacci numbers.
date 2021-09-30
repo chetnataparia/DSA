@@ -1,5 +1,5 @@
 //code to find fibonacci number upto 2000
-// Tinku Moni Kalita(2012042)
+// Chetna Taparia (2012073)
 #include <stdio.h>
 #define MAX 4500
 void add(char num1[], char num2[], char result[])
@@ -62,4 +62,3 @@ int main()
   }
   return 0;
 }
-© 2021 GitHub, Inc.
